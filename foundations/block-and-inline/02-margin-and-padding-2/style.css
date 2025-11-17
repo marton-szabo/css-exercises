@@ -7,20 +7,20 @@ body {
   width: 400px;
   background: #fff;
   margin: 16px auto;
-  border: 5px solid white;
+  padding: 8px;
 }
 
 .title {
   background: #e3f4ff;
-  border-top: 10px solid white;
+  margin-bottom: 10px;
   padding: 10px;
+  font-size: 16px;
 }
 
 .content {
   background: #e3f4ff;
-  border-bottom: 5px solid white;
-  border-top: 5px solid white;
-  padding: 10px;
+  margin-bottom: 8px;
+  padding: 16px 8px;
 
 }
 
@@ -33,10 +33,7 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
-  padding: 10px;
-}
-
-h1 {
-  font-size: 16px;
-  margin: auto;
+  display: block;
+  margin: 0 auto;
+  padding: 8px 24px;
 }
