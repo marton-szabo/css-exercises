@@ -1,1 +1,5 @@
 /* Add CSS Styling */
+.odd-numbered {
+    background-color: #ff9a9a;
+    font-family: 'Verdana', 'DeJavu Sans', 'sans-serif';
+}
